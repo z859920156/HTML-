@@ -1,8 +1,7 @@
 ## HTML5语法与基础标签
 
 ### 一、认识HTML5骨架
-
-![1](D:\慕课\前端\阶段一：前端基础入门\第1周 HTML5基础语法与标签\HTML5基础语法与标签\基础语法与特性\笔记\1.jpg)
+![1](https://user-images.githubusercontent.com/97715724/153823341-eb487412-3d16-4037-b0b1-232cf0b8d8ab.jpg)
 
 #### 1.文档类型声明DTD
 
