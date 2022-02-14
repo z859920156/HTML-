@@ -8,7 +8,8 @@
 - HTML文件第一行必须是DTD（Document Type Definition ,文档类型声明）
 - 不写DTD会引发浏览器的一些兼容问题。
 - 不同版本的HTML有不同的DTD写法.
-![2](https://user-images.githubusercontent.com/97715724/153823573-2ed06f65-2f50-46b2-9545-349f1195436b.jpg)
+![2](https://user-images.githubusercontent.com/97715724/153823892-7fda3d10-1529-4898-aeea-6ff98346562e.png)
+
 **W3C(万维网联合会）:**是万维网的主要国际标准组织，负责制定web标准，主要是HTML和CSS。
 
 #### 2.认识<html></html>标签对
