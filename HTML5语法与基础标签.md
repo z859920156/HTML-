@@ -1,31 +1,25 @@
-## HTML5语法与基础标签
-
-### 一、认识HTML5骨架
-1.认识HTML5骨架构
+# HTML5语法与基础标签
+## 一、认识HTML5骨架
+### 1.认识HTML5骨架结构
 ![1](https://user-images.githubusercontent.com/97715724/153823341-eb487412-3d16-4037-b0b1-232cf0b8d8ab.jpg)
 
-#### 1.文档类型声明DTD
-
+### 1-1.文档类型声明DTD
 - HTML文件第一行必须是DTD（Document Type Definition ,文档类型声明）
 - 不写DTD会引发浏览器的一些兼容问题。
 - 不同版本的HTML有不同的DTD写法.
 ![2](https://user-images.githubusercontent.com/97715724/153823892-7fda3d10-1529-4898-aeea-6ff98346562e.png)
 
-**W3C(万维网联合会）:**是万维网的主要国际标准组织，负责制定web标准，主要是HTML和CSS。
+### 1-2.W3C(万维网联合会）
+- **W3C(万维网联合会)是万维网的主要国际标准组织，负责制定web标准，主要是HTML和CSS。
 
-#### 2.认识<html></html>标签对
+### 2.认识<html></html>标签对
 ![2](https://user-images.githubusercontent.com/97715724/153823757-da032c1d-9268-4392-8a2c-785501ec0168.jpg)
 ![3](https://user-images.githubusercontent.com/97715724/153823789-1e229b17-2692-489e-8248-3e559c987894.JPG)
 
-#### 3.认识字符集
-
-##### 3-1.字符集出现的位置
-
-
-
-
-##### 3-2.meta-单标签，元标签-基础配置，meta的属性charset(字符集)为UTF-8
-
+### 3.认识字符集
+#### 3-1.字符集出现的位置
+![3](https://user-images.githubusercontent.com/97715724/153825616-befd2ea1-d256-47f0-adbc-eea2306fa392.PNG)
+![Uploading image.png…]()
 ![image-20210916145625829](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210916145625829.png)
 
 - **无论使用哪种字符集，一定要在vscode编译器中将文件也设置为相同字符集，否则会出现乱码，然后更改meta属性。**
