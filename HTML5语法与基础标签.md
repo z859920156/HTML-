@@ -1,6 +1,7 @@
 ## HTML5语法与基础标签
 
 ### 一、认识HTML5骨架
+1.认识HTML5骨架构
 ![1](https://user-images.githubusercontent.com/97715724/153823341-eb487412-3d16-4037-b0b1-232cf0b8d8ab.jpg)
 
 #### 1.文档类型声明DTD
@@ -14,12 +15,13 @@
 
 #### 2.认识<html></html>标签对
 ![2](https://user-images.githubusercontent.com/97715724/153823757-da032c1d-9268-4392-8a2c-785501ec0168.jpg)
+![3](https://user-images.githubusercontent.com/97715724/153823789-1e229b17-2692-489e-8248-3e559c987894.JPG)
 
 #### 3.认识字符集
 
 ##### 3-1.字符集出现的位置
 
-![3](https://user-images.githubusercontent.com/97715724/153823789-1e229b17-2692-489e-8248-3e559c987894.JPG)
+
 
 
 ##### 3-2.meta-单标签，元标签-基础配置，meta的属性charset(字符集)为UTF-8
