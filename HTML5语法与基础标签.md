@@ -19,31 +19,22 @@
 ### 3.认识字符集
 #### 3-1.字符集出现的位置
 ![3](https://user-images.githubusercontent.com/97715724/153825616-befd2ea1-d256-47f0-adbc-eea2306fa392.PNG)
-![Uploading image.png…]()
-![image-20210916145625829](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210916145625829.png)
+![Snipaste_2022-02-14_16-22-04](https://user-images.githubusercontent.com/97715724/153826464-1735c736-293a-4536-9f99-035c0b4cdacf.jpg)
+#### 3-2.字符集的区别(UTF-8和gb2312)
+![4](https://user-images.githubusercontent.com/97715724/153826763-280bfdb8-4f6e-4185-aa6a-c51f46352be4.PNG)
+- 无论使用哪种字符集，一定要在vscode编译器中将文件也设置为相同字符集，否则会出现乱码，然后更改meta属性。
+- gbk占用的内存少，推荐使用如果只有英文和中文，但不支持live server插件
 
-- **无论使用哪种字符集，一定要在vscode编译器中将文件也设置为相同字符集，否则会出现乱码，然后更改meta属性。**
-- **gbk占用的内存少，推荐使用如果只有英文和中文，但不支持live server插件**
-
-#### 4.title、关键词及页面描述
-
-##### 4-1.title设置出现的位置
-
+### 4.title、关键词及页面描述
+#### 4-1.title设置出现的位置
 ![image-20210916153005440](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210916153005440.png)
-
-##### 4-2.title的用途
-
+#### 4-2.title的用途
 - title标签用来设置网页的标题，文字会显示在浏览器的标签栏上。
 
-##### 4-3.网页关键词和页面的描述
-
+#### 4-3.网页关键词和页面的描述
 - 合理设置网页的网页的关键词和页面描述,也是SEO的重要手段
-
 - **SEO(Search Engine Optimization,搜索引擎优化)** 利用搜索引擎的规则提高网站在有关搜索引擎内的自然排名,让网站在搜索引擎的结果中内占据领先地位,获得品牌收益
-
-- 使用meta标签设置网页关键词和描述,name属性非常关键,用来设置meta的具体功能 **（Keywords关键词   content内容**
-
-  **Description页面描述）**
+- 使用meta标签设置网页关键词和描述,name属性非常关键,用来设置meta的具体功能 **（Keywords关键词   content内容 Description页面描述）**
 
 ![image-20210916153655788](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210916153655788.png)
 
